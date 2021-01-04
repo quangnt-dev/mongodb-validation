@@ -1,0 +1,17 @@
+{
+  "name": "mongodb-validation",
+  "version": "1.0.0",
+  "description": "mongodb-validation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:watch": "nodemon QueryDocument.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.11.9",
+    "nodemon": "^2.0.6"
+  }
+}
